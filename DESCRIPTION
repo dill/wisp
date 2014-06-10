@@ -1,0 +1,18 @@
+Package: wisp
+Version: 1.2.6
+Date: 2013-05-28
+Title: Wildlife Simulation Package (wisp)
+Author: Walter Zucchini <Walter.Zucchini@wi-wiss.uni-goettingen.de> 
+ and David Borchers <dlb@mcs.st-and.ac.uk>, with  contributions from  
+ Alexey Botvinnik, Martin Erdelmeier, Gunter Kratz, Oliver Kellenberger, 
+ Stefan Kirchfeld, Jurgen Meinecke, Jonathan Bishop, Shirley Pledger, 
+ Daniel Adler, Eric Rexstad. 
+Maintainer: Walter Zucchini <Walter.Zucchini@wi-wiss.uni-goettingen.de>
+Description: This library is designed to suppliment the text 
+ D.L. Borchers, S.T. Buckland and W. Zucchini (2002) 
+ "Estimating Animal Abundance: Closed Populations", Springer.
+License: GPL
+URL: http://www.ruwpa.st-and.ac.uk/estimating.abundance/WiSP/index.html
+Contributers: see above
+
+
